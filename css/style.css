@@ -1,0 +1,36 @@
+body {
+    background-image:
+        linear-gradient(rgba(23, 24, 34, 0.600),
+            rgba(23, 24, 34, 0.600)),
+        url('../images/back.jpg');
+}
+
+.title-head {
+    color: white;
+}
+
+.desc-head {
+    color: white;
+}
+
+.del-head {
+    color: white;
+}
+
+hr {
+    border-top: 1px solid white;
+}
+
+.navbar{
+	background-color: #27a844;
+	color: white;
+}
+
+.navbar-brand {
+	text-decoration: none;
+	color: white;
+}
+ 
+ .fixed {
+ 	position: fixed; 
+ }
